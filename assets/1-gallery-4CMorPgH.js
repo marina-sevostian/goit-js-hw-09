@@ -6,5 +6,5 @@ import{S as n}from"./vendor-CgTBfC_f.js";(function(){const t=document.createElem
       alt="${i}"
     />
   </a>
-</li>`).join("");s.insertAdjacentHTML("beforeend",l);new n(".gallery a",{});
-//# sourceMappingURL=1-gallery-CWKYC7zS.js.map
+</li>`).join("");s.insertAdjacentHTML("beforeend",l);new n(".gallery a",{captionsData:"alt",captionDelay:250});
+//# sourceMappingURL=1-gallery-4CMorPgH.js.map
