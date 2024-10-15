@@ -1,0 +1,26 @@
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.gallery-image {
+  max-width: 360px;
+}
+.gallery {
+  margin: 24px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 24px;
+  column-gap: 24px;
+  background-color: #fff;
+}
