@@ -84,5 +84,6 @@ gallery.insertAdjacentHTML('beforeend', galleryUp);
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 new SimpleLightbox('.gallery a', {
-  /* options */
+  captionsData: 'alt',
+  captionDelay: 250,
 });
