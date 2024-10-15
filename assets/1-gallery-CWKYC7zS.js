@@ -7,4 +7,4 @@ import{S as n}from"./vendor-CgTBfC_f.js";(function(){const t=document.createElem
     />
   </a>
 </li>`).join("");s.insertAdjacentHTML("beforeend",l);new n(".gallery a",{});
-//# sourceMappingURL=1-gallery-CJ57e5_q.js.map
+//# sourceMappingURL=1-gallery-CWKYC7zS.js.map
