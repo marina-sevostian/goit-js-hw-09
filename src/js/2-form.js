@@ -19,7 +19,7 @@ function onSaveFormInput(event) {
 
 function onFormSubmit(event) {
   event.preventDefault();
-  if (!event.target.email.value || !event.target.message.value) {
+  if (!event.target.email.value.trim() || !event.target.message.value.trim()) {
     alert('Fill please all fields');
     return;
   }
